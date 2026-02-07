@@ -1,0 +1,45 @@
+commit 8a3ec3ab44c31dafbeb37b50e37aaf5a9db327f9
+Merge: 54b4c43 a55d1a7
+Author: coppernicussss <mnawaz3@calstatela.edu>
+Date:   Sat Feb 7 12:09:28 2026 -0800
+
+    Resolved merge conflicts
+
+commit a55d1a723522bceb4d28ca32bc8ba9b4db6df6f8
+Author: coppernicussss <mnawaz3@calstatela.edu>
+Date:   Sat Feb 7 12:03:53 2026 -0800
+
+    Added favorite game
+
+commit 54b4c4308655eb235d86ba0cce55bd538ed511d5
+Author: coppernicussss <mnawaz3@calstatela.edu>
+Date:   Sat Feb 7 12:01:21 2026 -0800
+
+    Added favorite food
+
+commit bab0f734daae58172a83440dc7e2009bd5859908
+Author: coppernicussss <mnawaz3@calstatela.edu>
+Date:   Sat Feb 7 11:57:27 2026 -0800
+
+    Added README file
+
+commit 036b61e8aec5d936f9f71b2519ed8caa172fbdc7
+Merge: 1d2bfc0 c458511
+Author: coppernicussss <mnawaz3@calstatela.edu>
+Date:   Sat Feb 7 11:46:13 2026 -0800
+
+    Merge pull request #1 from coppernicussss/info-fill
+    
+    Filled in Blanks
+
+commit c4585111b367b03575e06f0470823100dac5fde3
+Author: coppernicussss <mnawaz3@calstatela.edu>
+Date:   Sat Feb 7 11:25:42 2026 -0800
+
+    Filled in Blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
